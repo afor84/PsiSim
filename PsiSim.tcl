@@ -3,7 +3,6 @@
 #  All rights reserved.
 #  Authors: Oliver Bruendler
 ##############################################################################
-#  Modifiers: AFOR
 
 ########################################################################
 # PSI Modelsim Simulation Package
